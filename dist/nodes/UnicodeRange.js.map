@@ -1,0 +1,1 @@
+{"version":3,"file":"UnicodeRange.js","sourceRoot":"","sources":["../../src/nodes/UnicodeRange.ts"],"names":[],"mappings":";;;AAYA,iCAA2C;AAE3C,MAAa,YAAa,SAAQ,WAAI;IACpC,YAAY,OAAoB;QAC9B,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,cAAc,CAAC;QAC1B,IAAY,CAAC,KAAK,GAAI,OAAO,CAAC,IAAyB,CAAC,KAAK,CAAC;IACjE,CAAC;CACF;AAND,oCAMC"}
